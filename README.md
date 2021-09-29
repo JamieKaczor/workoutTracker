@@ -1,8 +1,23 @@
 # workoutTracker
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Description
+## Table of Contents
+- [Overview](#overview)
+- [Technology Used](#technology-used)
+- [Installation and Start](#installation-and-start)
+- [Link to Deployed Site](#link-to-deployed-site)
+- [Screenshots](#screenshots)
+- [Questions](#questions)
+
+## Overview
 
 A consumer will reach their fitness goals more quickly when they track their workout progress.  For this assignment, you'll create a workout tracker.  This assignment will require you to create Mongo database with a Mongoose schema and handle routes with Express.
+
+## Technology Used
+- MongoDB
+- Express
+- Mongoose
+- Morgan
 
 ## Installation and Start
 
